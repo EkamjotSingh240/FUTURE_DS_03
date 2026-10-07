@@ -219,8 +219,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Powerbi
-/powerbi 
-
 # DataSet
 /dataset 
